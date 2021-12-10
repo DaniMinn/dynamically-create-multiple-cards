@@ -1,0 +1,26 @@
+{
+    "appStatus" : [  
+
+        {  
+            "app":"Application A",
+            "category":"Overall Status",
+            "status":"1"
+        },
+        {  
+            "app":"Application A",
+            "category":"System Status",
+            "status":"2"
+        },
+        {  
+            "app":"Application B",
+            "category":"Overall Status",
+            "status":"1"
+        },
+        {  
+            "app":"Application B",
+            "category":"Overall Status",
+            "status":"2"
+        }
+
+    ]
+}

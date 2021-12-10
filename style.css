@@ -1,0 +1,29 @@
+.card-body{
+    width: 400px;
+    height: 242px;
+    background-color: rgb(255, 255, 255);
+    border: solid 2px black;
+    margin: 20px;
+    border-radius: 8px;
+}
+
+.card-title {
+	margin-top: 0.50rem;
+    margin-bottom: .1rem;
+    color: white;
+    background-color: #01233F;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding: 7px;
+    margin-left: 4px;
+    margin-right: 4px;
+    
+}
+
+.status{
+    float: right;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    color: transparent;
+}
