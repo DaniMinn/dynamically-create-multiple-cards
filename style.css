@@ -1,3 +1,8 @@
+
+body {
+    font-family: helvetica;
+}
+
 .card-body{
     width: 400px;
     height: 242px;
@@ -26,4 +31,8 @@
     height: 20px;
     border-radius: 50%;
     color: transparent;
+}
+
+.card-cat{
+    padding: 10px;
 }
